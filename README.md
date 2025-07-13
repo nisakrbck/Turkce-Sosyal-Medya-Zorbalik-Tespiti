@@ -45,6 +45,13 @@ Bu projenin amacı, sosyal medya ortamında geçen paylaşımlar üzerinden sibe
 - pandas, scikit-learn, matplotlib, seaborn, nltk vb.
 (Notebook içerisinde gerekli tüm kütüphaneler listelenmiştir.)
 
+## 📄 Proje Posteri
+
+[![PDF İndir](https://img.shields.io/badge/Poster%20PDF-Download-red?logo=adobeacrobatreader&logoColor=white)](./poster.pdf)
+
+Bu projeye ait poster dosyasını yukarıdaki bağlantıdan görüntüleyebilirsiniz.
+
+
 
 ### Cyberbullying Detection on Turkish Social Media
 
@@ -93,6 +100,11 @@ The aim of this project is to analyze the types of cyberbullying present in soci
 - Libraries: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `nltk`, etc.  
   (All required packages are listed within the notebook.)
 
+## 📄 Project Poster
+
+[![Download PDF](https://img.shields.io/badge/Poster%20PDF-Download-red?logo=adobeacrobatreader&logoColor=white)](./poster.pdf)
+
+You can view or download the poster file of this project by clicking the button above.
 
 ---
 
