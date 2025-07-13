@@ -47,7 +47,7 @@ Bu projenin amacı, sosyal medya ortamında geçen paylaşımlar üzerinden sibe
 
 ## 📄 Proje Posteri
 
-[![PDF İndir](https://img.shields.io/badge/Poster%20PDF-Download-red?logo=adobeacrobatreader&logoColor=white)](./poster.pdf)
+[![PDF İndir](https://img.shields.io/badge/Poster%20PDF-Download-red?logo=adobeacrobatreader&logoColor=white)](./POSTER.pdf)
 
 Bu projeye ait poster dosyasını yukarıdaki bağlantıdan görüntüleyebilirsiniz.
 
@@ -102,7 +102,7 @@ The aim of this project is to analyze the types of cyberbullying present in soci
 
 ## 📄 Project Poster
 
-[![Download PDF](https://img.shields.io/badge/Poster%20PDF-Download-red?logo=adobeacrobatreader&logoColor=white)](./poster.pdf)
+[![Download PDF](https://img.shields.io/badge/Poster%20PDF-Download-red?logo=adobeacrobatreader&logoColor=white)](./POSTER.pdf)
 
 You can view or download the poster file of this project by clicking the button above.
 
